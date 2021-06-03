@@ -1,11 +1,11 @@
-# vanillaJS
+# Udemy Vanilla JavaScript 강의
 
-- [20 Web Projects With Vanilla JavaScript (Udemy)](https://www.udemy.com/course/web-projects-with-vanilla-javascript/) 강의의 스터디 자료입니다
+- [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
 
-- 강의 리스트
+- 프로젝트
 
   - [x] Form Validator
-  - [ ] Movie Seat Booking
+  - [x] Movie Seat Booking
   - [ ] Custom Video Player
   - [ ] Exchange Rate Calculator
   - [ ] DOM Array Methods
