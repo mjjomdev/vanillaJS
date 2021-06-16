@@ -6,7 +6,7 @@
 
   - [x] Form Validator
   - [x] Movie Seat Booking
-  - [ ] Custom Video Player
+  - [x] Custom Video Player
   - [ ] Exchange Rate Calculator
   - [ ] DOM Array Methods
   - [ ] Menu Slider & Modal
