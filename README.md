@@ -8,7 +8,7 @@
   - [x] Movie Seat Booking
   - [x] Custom Video Player
   - [x] Exchange Rate Calculator
-  - [ ] DOM Array Methods
+  - [x] DOM Array Methods
   - [ ] Menu Slider & Modal
   - [ ] Hangman Game
   - [ ] Meal Finder
