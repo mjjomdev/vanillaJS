@@ -1,13 +1,13 @@
-# Udemy Vanilla JavaScript 강의
+# Udemy Vanilla JavaScript
 
 - [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
 
-- 프로젝트
+- Projects
 
   - [x] Form Validator
   - [x] Movie Seat Booking
   - [x] Custom Video Player
-  - [ ] Exchange Rate Calculator
+  - [x] Exchange Rate Calculator
   - [ ] DOM Array Methods
   - [ ] Menu Slider & Modal
   - [ ] Hangman Game
