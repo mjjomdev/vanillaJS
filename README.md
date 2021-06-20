@@ -9,7 +9,7 @@
   - [x] Custom Video Player
   - [x] Exchange Rate Calculator
   - [x] DOM Array Methods
-  - [ ] Menu Slider & Modal
+  - [x] Menu Slider & Modal
   - [ ] Hangman Game
   - [ ] Meal Finder
   - [ ] Expense Tracker
