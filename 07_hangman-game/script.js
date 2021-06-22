@@ -35,4 +35,80 @@ function displayWord() {
   }
 }
 
+// update wrong letters
+function updateWrongLettersEl() {
+  // Display wrong letters
+  wrongLettersEl.innerHTML = `
+    ${wrongLetters.length > 0 ? '<p>Wrong</p>' : ''}
+    ${wrongLetters.map((letter) => `<span>${letter}</span>`)}
+  `;
+
+  // Display parts
+  figureParts.forEach((part, index) => {
+    const errors = wrongLetters.length;
+
+    if (index < errors) {
+      part.style.display = 'block';
+    } else {
+      part.style.display = 'none';
+    }
+  });
+
+  // Check if lost
+  if (wrongLetters.length === figureParts.length) {
+    finalMessage.innerText = 'Unfortunately you lost.';
+    popup.style.display = 'flex';
+  }
+}
+
+// Show notification
+function showNotification() {
+  notification.classList.add('show');
+
+  setTimeout(() => {
+    notification.classList.remove('show');
+  }, 2000);
+}
+
+// keydown letter press
+window.addEventListener('keydown', (e) => {
+  if (e.keyCode >= 65 && e.keyCode <= 90) {
+    const letter = e.key;
+
+    if (selectedWord.includes(letter)) {
+      if (!correctLetters.includes(letter)) {
+        correctLetters.push(letter);
+        displayWord();
+      } else {
+        showNotification();
+      }
+    } else {
+      if (!wrongLetters.includes(letter)) {
+        wrongLetters.push(letter);
+        updateWrongLettersEl();
+      } else {
+        showNotification();
+      }
+    }
+  }
+});
+
+// restart game and play again
+playAgainBtn.addEventListener('click', () => {
+  // empty arrays
+  correctLetters.splice(0);
+  wrongLetters.splice(0);
+
+  selectedWord = words[Math.floor(Math.random() * words.length)];
+
+  displayWord();
+  updateWrongLettersEl();
+  popup.style.display = 'none';
+});
+
 displayWord();
+
+// TODO
+// 한글 입력 막기
+// 팝업 띄워진 후 키보드 입력 막기
+// hang-out-man 으로 잔인하지 않게 바꿔보기
