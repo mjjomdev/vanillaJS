@@ -11,7 +11,7 @@
   - [x] DOM Array Methods
   - [x] Menu Slider & Modal
   - [x] Hangman Game
-  - [ ] Meal Finder
+  - [x] Meal Finder
   - [ ] Expense Tracker
   - [ ] Music Player
   - [ ] Infinite Scroll Posts
