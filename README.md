@@ -10,7 +10,7 @@
   - [x] Exchange Rate Calculator
   - [x] DOM Array Methods
   - [x] Menu Slider & Modal
-  - [ ] Hangman Game
+  - [x] Hangman Game
   - [ ] Meal Finder
   - [ ] Expense Tracker
   - [ ] Music Player
