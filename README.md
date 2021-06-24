@@ -12,7 +12,7 @@
   - [x] Menu Slider & Modal
   - [x] Hangman Game
   - [x] Meal Finder
-  - [ ] Expense Tracker
+  - [x] Expense Tracker
   - [ ] Music Player
   - [ ] Infinite Scroll Posts
   - [ ] Typing Game
