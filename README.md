@@ -14,7 +14,7 @@
   - [x] Meal Finder
   - [x] Expense Tracker
   - [x] Music Player
-  - [ ] Infinite Scroll Posts
+  - [x] Infinite Scroll Posts
   - [ ] Typing Game
   - [ ] Speech Text Reader
   - [ ] Memory Cards
