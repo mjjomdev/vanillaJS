@@ -13,7 +13,7 @@
   - [x] Hangman Game
   - [x] Meal Finder
   - [x] Expense Tracker
-  - [ ] Music Player
+  - [x] Music Player
   - [ ] Infinite Scroll Posts
   - [ ] Typing Game
   - [ ] Speech Text Reader
