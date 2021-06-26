@@ -5,7 +5,7 @@ const filter = document.getElementById('filter');
 let limit = 5;
 let page = 1;
 
-// fetch poasts from API
+// fetch posts from API
 async function getPosts() {
   const res = await fetch(
     `https://jsonplaceholder.typicode.com/posts?_limit=${limit}&_page=${page}`
