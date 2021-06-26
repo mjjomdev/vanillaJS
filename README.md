@@ -15,7 +15,7 @@
   - [x] Expense Tracker
   - [x] Music Player
   - [x] Infinite Scroll Posts
-  - [ ] Typing Game
+  - [x] Typing Game
   - [ ] Speech Text Reader
   - [ ] Memory Cards
   - [ ] Lyrics Search App
