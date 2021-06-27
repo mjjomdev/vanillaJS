@@ -17,7 +17,7 @@
   - [x] Infinite Scroll Posts
   - [x] Typing Game
   - [x] Speech Text Reader
-  - [ ] Memory Cards
+  - [x] Memory Cards
   - [ ] Lyrics Search App
   - [ ] Relaxer App
   - [ ] Breakout Game
