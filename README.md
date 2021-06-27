@@ -16,7 +16,7 @@
   - [x] Music Player
   - [x] Infinite Scroll Posts
   - [x] Typing Game
-  - [ ] Speech Text Reader
+  - [x] Speech Text Reader
   - [ ] Memory Cards
   - [ ] Lyrics Search App
   - [ ] Relaxer App
