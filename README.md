@@ -20,7 +20,7 @@
   - [x] Memory Cards
   - [x] Lyrics Search App
   - [x] Relaxer App
-  - [ ] Breakout Game
-  - [ ] New Year Countdown
+  - [x] Breakout Game
+  - [x] New Year Countdown
   - [ ] Sortable List
   - [ ] Speak Number Guessing Game
