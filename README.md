@@ -19,7 +19,7 @@
   - [x] Speech Text Reader
   - [x] Memory Cards
   - [x] Lyrics Search App
-  - [ ] Relaxer App
+  - [x] Relaxer App
   - [ ] Breakout Game
   - [ ] New Year Countdown
   - [ ] Sortable List
