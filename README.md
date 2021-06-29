@@ -23,4 +23,4 @@
   - [x] Breakout Game
   - [x] New Year Countdown
   - [x] Sortable List
-  - [ ] Speak Number Guessing Game
+  - [x] Speak Number Guessing Game
