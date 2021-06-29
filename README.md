@@ -18,7 +18,7 @@
   - [x] Typing Game
   - [x] Speech Text Reader
   - [x] Memory Cards
-  - [ ] Lyrics Search App
+  - [x] Lyrics Search App
   - [ ] Relaxer App
   - [ ] Breakout Game
   - [ ] New Year Countdown
